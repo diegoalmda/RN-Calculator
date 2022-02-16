@@ -18,10 +18,6 @@ const initialState = {
 const App = () => {
   const [display, setDisplay] = useState(initialState);
 
-  useEffect(() => {
-    console.log(display)
-  }, [display]);
-
   const addDigit = n => {
     
     const clearDisplay = display.displayValue === '0' || display.clearDisplay;
