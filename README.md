@@ -1,8 +1,5 @@
 ### Aplicativo calculadora com funções básicas
 
-<<<<<<< HEAD
-O projeto foi construído utilizando React Native com componentes funcionais e hooks. Foi desenvolvido a partir de uma aula do curso 'React Native: Desenvolva APPs Nativas para Android e iOS' da [Cod3r](https://cod3r.com.br/).
-=======
 O projeto foi construído utilizando React Native com componentes funcionais e hooks. Foi desenvolvido a partir de uma aula do curso 'React Native: Desenvolva APPs Nativas para Android e iOS' da [Cod3r](https://www.cod3r.com.br/).
 
 <p align="center">
@@ -10,4 +7,3 @@ O projeto foi construído utilizando React Native com componentes funcionais e h
 <p>
    
 ##### Desenvolvido por [Diego Almeida](https://www.linkedin.com/in/diegoalmda/).
->>>>>>> df00ab9f930422df644ba0fb7dba7d1701433ece
